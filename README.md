@@ -18,7 +18,9 @@ Systems Analysis and Development graduate (Brazil) with 10 years of experience i
 | Vehicle repair quote app | Quotes with damage marking and PDF export (in development) |
 | RedM server (Lua) | Game-server scripting and maintenance (private) |
 
-Public projects will be listed here as they are published. Several of my projects are private because they run real operations.
+**Public:** [sistema-financeiro](https://github.com/Juniorr-Ribeiro/sistema-financeiro) — household finance tracker (Node.js/Express, password login, monthly budgets, cards and installments), with demo data only.
+
+Several of my other projects are private because they run real operations.
 
 ## How I work
 
